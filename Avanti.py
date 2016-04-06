@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 04 21:40:57 2016
 
-@author: Yash
+@author: Avanti
 """
 import scipy
 from scipy.optimize import fmin
